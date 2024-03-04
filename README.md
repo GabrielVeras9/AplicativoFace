@@ -1,16 +1,1 @@
-# taxi_file
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Essa parte do aplicativo é responsável por fazer a captura de fotos da camera frontal a cada 30 segundos, fotos são salvar no google drive e o link é salvo no banco de dados.
